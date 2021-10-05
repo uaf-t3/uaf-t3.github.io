@@ -1,42 +1,10 @@
-# Docsy Example
+# T3 Makerspace Website
 
-[Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
+The [T3 Makerspace Website](https://t3.uaf.edu) is a Hugo website for the T3 makerspace.  The website uses the Hugo theme: [Docsy](https://github.com/google/docsy). Docsy is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. 
 
-The theme is included in this project as a Git submodule:
+_more details coming for managing and contributing to the website_
 
-```bash
-▶ git submodule
- a053131a4ebf6a59e4e8834a42368e248d98c01d themes/docsy (heads/master)
-```
-
-This Docsy Example Project is hosted at [https://example.docsy.dev/](https://example.docsy.dev/).
-
-You can find detailed theme instructions in the Docsy user guide: https://docsy.dev/docs/
-
-This is not an officially supported Google product. This project is currently maintained.
-
-## Using the Docsy Example Project as a template
-
-A simple way to get started is to use this project as a template, which gives you a site project that is set up and ready to use. To do this: 
-
-1. Click **Use this template**.
-
-2. Select a name for your new project and click **Create repository from template**.
-
-3. Make your own local working copy of your new repo using git clone, replacing https://github.com/my/example.git with your repo’s web URL:
-
-```bash
-git clone --recurse-submodules --depth 1 https://github.com/my/example.git
-```
-
-You can now edit your own versions of the site’s source files.
-
-If you want to do SCSS edits and want to publish these, you need to install `PostCSS`
-
-```bash
-npm install
-```
-
+# Hacking on the website
 ## Running the website locally
 
 Building and running the site locally requires a recent `extended` version of [Hugo](https://gohugo.io).
